@@ -2,6 +2,8 @@
 
 An interactive 3D avatar application built with ChatGPT and React Native, powered by an Express backend.
 
+click to see demo video: https://vimeo.com/1018594917
+
 [![3D Talking Avatar Demo](https://vumbnail.com/1018594917.jpg)](https://vimeo.com/1018594917)
 
 ## Features
