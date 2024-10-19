@@ -21,4 +21,10 @@ click to see demo video: https://vimeo.com/1018594917
 
 ## Installation
 
-**TODO** add apk file link
+### Android
+
+Download apk file from [releases](https://github.com/fzdp/gpt-avatar/releases)
+
+### IOS
+
+Not provided
